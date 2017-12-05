@@ -1,0 +1,143 @@
+//mithril document to build pools
+//****things to know = m, css selector, children
+
+//import our data file
+//m.request({
+//    url: './data/arrays_perf.json'
+//})
+
+window.onload = function () {
+
+    //create ourselves a little table
+var arraySelectiontable = {  
+    view: function(){
+        return m('table#arrTable'
+                    , m('tbody'
+                        , m('tr'
+                            , m('td', 'blank')
+                            , m('td', 'Model')
+                            , m('td', 'Pool')
+                            , m('td', '')
+                            , m('td', '')
+                            , m('td', 'Pool A')
+                            , m('td', 'Pool B')
+                            , m('td', 'Array')
+                        )
+                        , m('tr'
+                            , m('td', 'Array')
+                            , m('td', m('select.model', 'Model', [m('option', 'None')]))
+                            , m('td', 'Pool A')
+                            , m('td', '')
+                            , m('td', 'Type')
+                            , m('td.typeSelectA', '')
+                            , m('td.typeSelectB', '')
+                            , m('td.storType', '')
+                        )
+                        , m('tr'
+                            , m('td', 'Shelf')
+                            , m('td', m('select.shelf', 'Shelf', [m('option', 'None')]))
+                            , m('td', 'Pool A')
+                            , m('td', '')
+                            , m('td', 'RAID')
+                            , m('td.typeSelectA', '')
+                            , m('td.typeSelectB', '')
+                            , m('td.wLoad', '')
+                        )
+                        , m('tr'
+                            , m('td', 'Shelf')
+                            , m('td', m('select.shelf', 'Shelf', [m('option', 'None')]))
+                            , m('td', 'Pool A')
+                            , m('td', '')
+                            , m('td', 'Workload')
+                            , m('td.typeSelectA', '')
+                            , m('td.typeSelectB', '')
+                            , m('td.wLoad', '')
+                        )
+                        , m('tr'
+                            , m('td', 'Shelf')
+                            , m('td', m('select.shelf', 'Shelf', [m('option', 'None')]))
+                            , m('td', 'Pool A')
+                            , m('td', '')
+                            , m('td', 'Data Reduction')
+                            , m('td.typeSelectA', '')
+                            , m('td.typeSelectB', '')
+                            , m('td.wLoad', '')
+                        )
+                        , m('tr'
+                            , m('td', 'Shelf')
+                            , m('td', m('select.shelf', 'Shelf', [m('option', 'None')]))
+                            , m('td', 'Pool A')
+                            , m('td', '')
+                            , m('td', 'IOPS')
+                            , m('td.typeSelectA', '')
+                            , m('td.typeSelectB', '')
+                            , m('td.wLoad', '')
+                        )
+                            , m('tr'
+                            , m('td', 'Shelf')
+                            , m('td', m('select.shelf', 'Shelf', [m('option', 'None')]))
+                            , m('td', 'Pool A')
+                            , m('td', '')
+                            , m('td', 'DRAM')
+                            , m('td.typeSelectA', '')
+                            , m('td.typeSelectB', '')
+                            , m('td.wLoad', '')
+                        )
+                        , m('tr'
+                            , m('td', 'Shelf')
+                            , m('td', m('select.shelf', 'Shelf', [m('option', 'None')]))
+                            , m('td', 'Pool A')
+                            , m('td', '')
+                            , m('td', 'NVDIMM')
+                            , m('td.typeSelectA', '')
+                            , m('td.typeSelectB', '')
+                            , m('td.wLoad', '')
+                        )
+                        , m('tr'
+                            , m('td')
+                            , m('td')
+                            , m('td')
+                            , m('td', '')
+                            , m('td', 'Raw Capactiy (Tib)')
+                            , m('td.typeSelectA', '')
+                            , m('td.typeSelectB', '')
+                            , m('td.wLoad', '')
+                        )
+                        , m('tr'
+                            , m('td')
+                            , m('td')
+                            , m('td')
+                            , m('td', '')
+                            , m('td', 'Raw Capactiy (TiB)')
+                            , m('td.typeSelectA', '')
+                            , m('td.typeSelectB', '')
+                            , m('td.wLoad', '')
+                        )
+                        , m('tr'
+                            , m('td')
+                            , m('td')
+                            , m('td')
+                            , m('td', '')
+                            , m('td', 'Usable Capacity (TiB)')
+                            , m('td.typeSelectA', '')
+                            , m('td.typeSelectB', '')
+                            , m('td.wLoad', '')
+                        )
+                        , m('tr'
+                            , m('td')
+                            , m('td')
+                            , m('td')
+                            , m('td', '')
+                            , m('td', 'Effective Capacity (TiB)')
+                            , m('td.typeSelectA', '')
+                            , m('td.typeSelectB', '')
+                            , m('td.wLoad', '')
+                        )
+                    )
+                )
+            }
+        }
+
+m.mount(document.body, arraySelectiontable)
+
+}

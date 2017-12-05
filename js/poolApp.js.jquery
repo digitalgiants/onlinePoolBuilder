@@ -1,0 +1,76 @@
+$(document).ready(function() {
+    
+        //open our json file and start doing things
+        jData = $.getJSON( "./arrays_perf.json", function( data ) { //drill down and get the info you need from json
+
+            //set up some variables
+            var threeKArrays = data.threeSeries.arrays;
+            var threeKShelves = data.threeSeries.shelves;
+            var fourKArrays = data.fourSeries.arrays;
+            var fourKShelves = data.fourSeries.shelves;
+            var perFour = data.fourSeriesPerf;
+            
+            //add information based on selected array to the data boxes
+            $.each(data.fourSeries, function(k,arrays) { //finds the arrays
+
+                $.each(arrays.arrays, function(k,v) {
+    
+                var name = this.unit;  //array names
+                var nameOption = $('<option>' + name + '</option>')
+                //var nameSelect = $('<div id="' + name + '"></div>');
+                $('.modelSelect').append(nameOption)
+             });
+               
+            function getArrayData() {
+
+                
+                arrName = $('.modelSelect').val();
+
+                console.log(arrName);
+
+                arrayData = $.getJSON( "./arrays_perf.json", function(data) {
+
+                    
+
+                });
+            }
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+               
+            /*   
+                $.each(this.arrays, function() { //drills down to arrays
+                    //console.log(this.unit);
+    
+                    var name = this.unit;  //array names
+                    var nameDiv = $('<div id="' + name + '" class="section"></div>')
+    
+    
+                    $.each(this.info, function() { //produces the dataset name for each array
+                        //console.log(nameDiv);
+    
+                        var title = $('<div class="">Array: ' + this.title + '</div>');
+                        var rackUnit = $('<div class="">Rack Units: ' + this.ru + '</div>');
+                        var power = $('<div class="">Power: ' + this.Watts + '</div>');
+                        var Weight = $('<div class="">Weight: ' + this.Weight + '</div>');
+                        var amps = $('<div class="">Amps: ' + this.Amps + '</div>');
+                        var hdd = $('<div class="">HDD No: ' + this.HDDs + '</div>');
+                        var ssd = $('<div class="">SSD No: ' + this.SSDs + '</div>');
+                        var hddSize = $('<div class="">Raw HDD Size: ' + this.hddSize + '</div>');
+                        var ssdSize = $('<div class="">Raw SSD Size: ' + this.ssdSize + '</div>');
+    
+                        nameDiv === this.title ? null : $(nameDiv).append(title,rackUnit,power,Weight,amps,hdd,ssd,hddSize,ssdSize);
+    
+                    });
+                });*/
+            });
+        });
+    });

@@ -1,0 +1,79 @@
+* {
+  box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  padding: 0; }
+
+main {
+  padding: 50px; }
+
+.rig {
+  position: relative;
+  padding: 10px;
+  background: #eeeeee;
+  white-space: nowrap;
+  min-width: 600px; }
+
+* + .rig {
+  margin-top: 10px; }
+
+select {
+  vertical-align: top;
+  margin: 0 10px; }
+
+.shelves {
+  position: relative;
+  /*display: inline-block;*/ }
+  .shelves .shelf {
+    margin: 3px 0; }
+
+button.add, button.remove,
+button.poolA, button.poolB {
+  margin: 10px;
+  position: relative;
+  background: none;
+  border: 0;
+  border-radius: 12px;
+  vertical-align: top; }
+button.add {
+  background: greenyellow;
+  color: #222222; }
+  button.add:disabled {
+    opacity: 0.5;
+    background: #cccccc; }
+button.remove {
+  width: 24px;
+  height: 24px;
+  background: darkred;
+  color: white; }
+
+button.poolA, button.poolB {
+  width: 24px;
+  height: 24px;
+  background: lightgreen;
+  color: black;
+}
+
+.specs, .poolA, .poolB {
+  display: inline-block;
+  width: 200px;
+  margin: 0 10px;
+  padding: 15px;
+  background: white;
+  vertical-align: top; }
+
+  .specs div, .poolA div, .poolB div {
+    max-width: 200px;
+  }
+
+.delete-rig {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  border: 0;
+  border-radius: 12px;
+  background: darkred;
+  color: white; }
+
+/*# sourceMappingURL=globals.css.map */

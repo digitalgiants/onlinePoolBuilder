@@ -1,0 +1,754 @@
+{  
+   "threeSeries":[  
+      {  
+         "arrays":[  
+            {  
+               "unit": "3100",
+               "info":[  
+                  {  
+                     "title": "3100",
+                     "ru": 3,
+                     "Watts": "535 Watts",
+                     "Weight": "90 lbs",
+                     "Amps220": 2,
+                     "HDDs": 13,
+                     "SSDs": 3,
+                     "hddSize": 2,
+                     "ssdSize": 0.25,
+                  }
+               ]
+            },
+            {  
+               "unit": "3200",
+               "info":[  
+                  {  
+                     "title": "3200",
+                     "ru":3,
+                     "Watts":"535 Watts",
+                     "Weight":"90 lbs",
+                     "Amps220": 2,
+                     "HDDs": 13,
+                     "SSDs": 3,
+                     "hddSize": 3,
+                     "ssdSize": 0.5
+                  }
+               ]
+            }
+            {  
+               "unit": "3300",
+               "info":[  
+                  {  
+                     "title": "3300",
+                     "ru": 3,
+                     "Watts": "475 Watts",
+                     "Weight": "80 lbs",
+                     "Amps": 2,
+                     "HDDs": 18,
+                     "SSDs": 6,
+                     "hddSize": 1,
+                     "ssdSize": 0.25
+                  }
+               ]
+            },
+            {  
+               "unit": "3400",
+               "info":[  
+                  {  
+                     "title": "3400",
+                     "ru": 2,
+                     "Watts": "500 Watts",
+                     "Weight": "80 lbs",
+                     "Amps": 2,
+                     "HDDs": 13,
+                     "SSDs": 11,
+                     "hddSize": 2,
+                     "ssdSize": 0.25
+                  }
+               ]
+            },
+            {  
+               "unit": "3500",
+               "info":[  
+                  {  
+                     "title": "3500",
+                     "ru": 2,
+                     "Watts": "500 Watts",
+                     "Weight": "80 lbs",
+                     "Amps": 2,
+                     "HDDs": 0,
+                     "SSDs": 24,
+                     "hddSize": 0,
+                     "ssdSize": 0.25
+                  }
+               ]
+            },
+            {  
+               "unit": "3530",
+               "info":[  
+                  {  
+                     "title": "3530",
+                     "ru": 5,
+                     "Watts": "725 Watts",
+                     "Weight": "150 lbs",
+                     "Amps": 3,
+                     "HDDs": 13,
+                     "SSDs": 24,
+                     "hddSize": 2,
+                     "ssdSize": 0.25
+                  }
+               ]
+            },
+            {  
+               "unit": "3600",
+               "info":[  
+                  {  
+                     "title": "3600",
+                     "ru": 2,
+                     "Watts": "500 Watts",
+                     "Weight": "80 lbs",
+                     "Amps": 2,
+                     "HDDs": 0,
+                     "SSDs": 24,
+                     "hddSize": 0,
+                     "ssdSize": 0.5
+                  }
+               ]
+            },
+            {  
+               "unit": "3630",
+               "info":[  
+                  {  
+                     "title": "3630",
+                     "ru": 8,
+                     "Watts": "950 Watts",
+                     "Weight": "220 lbs",
+                     "Amps": 4,
+                     "HDDs": 26,
+                     "SSDs": 24,
+                     "hddSize": 2,
+                     "ssdSize": 0.5
+                  }
+               ]
+            },
+            {  
+               "unit": "3700",
+               "info":[  
+                  {  
+                     "title": "3700",
+                     "ru": 2,
+                     "Watts": "450 Watts",
+                     "Weight": "80 lbs",
+                     "Amps": 2,
+                     "HDDs": 0,
+                     "SSDs": 24,
+                     "hddSize": 0,
+                     "ssdSize": 1
+                  }
+               ]
+            },
+            {  
+               "unit": "3730",
+               "info":[  
+                  {  
+                     "title": "3730",
+                     "ru": 14,
+                     "Watts": "1400 Watts",
+                     "Weight": "360 lbs",
+                     "Amps": 6,
+                     "HDDs": 52,
+                     "SSDs": 24,
+                     "hddSize": 2,
+                     "ssdSize": 1
+                  }
+               ]
+            },
+            {  
+               "unit": "3750",
+               "info":[  
+                  {  
+                     "title": "3750",
+                     "ru": 5,
+                     "Watts": "725 Watts",
+                     "Weight": "150 lbs",
+                     "Amps": 3,
+                     "HDDs": 13,
+                     "SSDs": 24,
+                     "hddSize": 3,
+                     "ssdSize": 1
+                  }
+               ]
+            },
+            {  
+               "unit":" 3800",
+               "info":[  
+                  {  
+                     "title": "3800",
+                     "ru": 2,
+                     "Watts": "450 Watts",
+                     "Weight": "80 lbs",
+                     "Amps": "500",
+                     "HDDs": 0,
+                     "SSDs": 24,
+                     "hddSize": 0,
+                     "ssdSize": 2
+                  }
+               ]
+            },
+            {  
+               "unit": "3850",
+               "info":[  
+                  {  
+                     "title": "3850",
+                     "ru": 8,
+                     "Watts": "950 Watts",
+                     "Weight": "220 lbs",
+                     "Amps": 4,
+                     "HDDs": 26,
+                     "SSDs": 24,
+                     "hddSize": 3,
+                     "ssdSize": 2
+                  }
+               ]
+            },
+            {  
+               "unit": "HD1",
+               "info":[  
+                  {  
+                     "title": "T10KHD-100",
+                     "ru": 5,
+                     "Watts": "Up to 1250 Watts",
+                     "Weight": "Up to 175 lbs",
+                     "Amps": 3,
+                     "HDDs": 22,
+                     "SSDs": 8,
+                     "hddSize": 8,
+                     "ssdSize": 2
+                  }
+               ]
+            },
+            {  
+               "unit": "HD2",
+               "info":[  
+                  {  
+                     "title": "T10KHD-200",
+                     "ru": 5,
+                     "Watts": "Up to 1250 Watts",
+                     "Weight": "Up to 175 lbs",
+                     "Amps": 3,
+                     "HDDs": 42,
+                     "SSDs": 16,
+                     "hddSize": 8,
+                     "ssdSize": 2
+                  }
+               ]
+            },
+            {  
+               "unit": "HD3",
+               "info":[  
+                  {  
+                     "title": "T10KHD-300",
+                     "ru": 5,
+                     "Watts": "Up to 1250 Watts",
+                     "Weight": "Up to 175 lbs",
+                     "Amps": 3,
+                     "HDDs": 64,
+                     "SSDs": 24,
+                     "hddSize": 8,
+                     "ssdSize": 2
+                  }
+               ]
+            }
+         ],
+         "shelves":[  
+            {  
+               "unit": "ESH20",
+               "info":[  
+                  {  
+                     "title": "ESH20",
+                     "ru": 3,
+                     "Watts": "225 Watts",
+                     "Weight": "70 lbs",
+                     "Amps": 1,
+                     "HDDs": 18,
+                     "SSDs": 6,
+                     "hddSize": 1,
+                     "ssdSize": 0.25
+                  }
+               ]
+            },
+            {  
+               "unit": "ESH25",
+               "info":[  
+                  {  
+                     "title": "ESH25",
+                     "ru": 3,
+                     "Watts": "225 Watts",
+                     "Weight": "70 lbs",
+                     "Amps": 1,
+                     "HDDs": 13,
+                     "SSDs": 3,
+                     "hddSize": 2,
+                     "ssdSize": 0.25
+                  }
+               ]
+            },
+            {  
+               "unit": "ESH35",
+               "info":[  
+                  {  
+                     "title": "ESH35",
+                     "ru": 3,
+                     "Watts": "225 Watts",
+                     "Weight": "70 lbs",
+                     "Amps": 1,
+                     "HDDs": 12,
+                     "SSDs": 4,
+                     "hddSize": 3,
+                     "ssdSize": 0.5
+                  }
+               ]
+            },
+            {  
+               "unit": "ESH65",
+               "info":[  
+                  {  
+                     "title": "ESH65",
+                     "ru": 4,
+                     "Watts": "675 Watts",
+                     "Weight": "110 Lbs",
+                     "Amps": 3,
+                     "HDDs": 64,
+                     "SSDs": 8,
+                     "hddSize": 1,
+                     "ssdSize": 0.25
+                  }
+               ]
+            },
+            {  
+               "unit": "ESF5",
+               "info":[  
+                  {  
+                     "title": "ESF5",
+                     "ru": 2,
+                     "Watts": "107 Watts",
+                     "Weight": "50lbs",
+                     "Amps": 1,
+                     "HDDs": 0,
+                     "SSDs": 24,
+                     "hddSize": 0,
+                     "ssdSize": 0.25
+                  }
+               ]
+            },
+            {  
+               "unit": "ESF10",
+               "info":[  
+                  {  
+                     "title": "ESF10",
+                     "ru": 2,
+                     "Watts": "107 Watts",
+                     "Weight": "50lbs",
+                     "Amps": 1,
+                     "HDDs": 0,
+                     "SSDs": 24,
+                     "hddSize": 0,
+                     "ssdSize": 0.5
+                  }
+               ]
+            },
+            {  
+               "unit": "ESF25",
+               "info":[  
+                  {  
+                     "title": "ESF25",
+                     "ru": 2,
+                     "Watts": "107 Watts",
+                     "Weight": "50lbs",
+                     "Amps": 1,
+                     "HDDs": 0,
+                     "SSDs": 24,
+                     "hddSize": 0,
+                     "ssdSize": 1
+                  }
+               ]
+            },
+            {  
+               "unit": "ESF50",
+               "info":[  
+                  {  
+                     "title": "ESF50",
+                     "ru": 2,
+                     "Watts": "107 Watts",
+                     "Weight": "50lbs",
+                     "Amps": 1,
+                     "HDDs": 0,
+                     "SSDs": 24,
+                     "hddSize": 0,
+                     "ssdSize": 2
+                  }
+               ]
+            },
+            {  
+               "unit": "ESF145",
+               "info":[  
+                  {  
+                     "title": "ESF145",
+                     "ru": 4,
+                     "Watts": "760 Watts",
+                     "Weight": "50lbs",
+                     "Amps": 3,
+                     "HDDs": 0,
+                     "SSDs": 72,
+                     "hddSize": 0,
+                     "ssdSize": 2
+                  }
+               ]
+            }
+         ]
+      }
+   ],
+   "fourSeries":[  
+      {  
+         "arrays":[  
+            {  
+               "unit": "4100",
+               "info":[  
+                  {  
+                     "title": "4100",
+                     "ru": 3,
+                     "Watts": "423",
+                     "Weight": "105 lbs",
+                     "Amps": 2,
+                     "HDDs": 13,
+                     "SSDs": 3,
+                     "hddSize": 26,
+                     "ssdSize": 1.5
+                  }
+               ]
+            },
+            {  
+               "unit": "4200",
+               "info":[  
+                  {  
+                     "title":"4200",
+                     "ru": 3,
+                     "Watts": "441",
+                     "Weight": "105 lbs",
+                     "Amps": 2,
+                     "HDDs": 13,
+                     "SSDs": 3,
+                     "hddSize": 4,
+                     "ssdSize": 2
+                  }
+               ]
+            },
+            {  
+               "unit": "4500",
+               "info":[  
+                  {  
+                     "title":"4500",
+                     "ru": 2,
+                     "Watts": "439",
+                     "Weight": "80 lbs",
+                     "Amps": 2,
+                     "HDDs": 0,
+                     "SSDs": 24,
+                     "hddSize": 0,
+                     "ssdSize": 6
+                  }
+               ]
+            },
+            {  
+               "unit":"4600",
+               "info":[  
+                  {  
+                     "title":"4600",
+                     "ru": 2,
+                     "Watts": "500",
+                     "Weight": "80 lbs",
+                     "Amps": 2,
+                     "HDDs": 0,
+                     "SSDs": 24,
+                     "hddSize": 0,
+                     "ssdSize": 12
+                  }
+               ]
+            },
+            {  
+               "unit":"4700",
+               "info":[  
+                  {  
+                     "title":"4700",
+                     "ru": 2,
+                     "Watts": "500",
+                     "Weight": "80 lbs",
+                     "Amps": 2,
+                     "HDDs": 0,
+                     "SSDs": 24,
+                     "hddSize": 0,
+                     "ssdSize": 24
+                  }
+               ]
+            },
+            {  
+               "unit":"4800",
+               "info":[  
+                  {  
+                     "title":"4800",
+                     "ru": 2,
+                     "Watts": "500",
+                     "Weight": "80 lbs",
+                     "Amps": 2,
+                     "HDDs": 0,
+                     "SSDs": 24,
+                     "hddSize": 0,
+                     "ssdSize": 2
+                  }
+               ]
+            },
+            {  
+               "unit":"4530",
+               "info":[  
+                  {  
+                     "title":"4530",
+                     "ru": 5,
+                     "Watts": "635",
+                     "Weight": "185 lbs",
+                     "Amps": 3,
+                     "HDDs": 13,
+                     "SSDs": 27,
+                     "hddSize": 26,
+                     "ssdSize": 7.5
+                  }
+               ]
+            },
+            {  
+               "unit":"4630",
+               "info":[  
+                  {  
+                     "title":"4630",
+                     "ru": 5,
+                     "Watts": "691",
+                     "Weight": "185 lbs",
+                     "Amps": 4,
+                     "HDDs": 13,
+                     "SSDs": "27",
+                     "hddSize": "52",
+                     "ssdSize": "17.8"
+                  }
+               ]
+            },
+            {  
+               "unit":"4730",
+               "info":[  
+                  {  
+                     "title":"4730",
+                     "ru": "8",
+                     "Watts": "887",
+                     "Weight": "290 lbs",
+                     "Amps": 5,
+                     "HDDs": "26",
+                     "SSDs": "30",
+                     "hddSize": "104",
+                     "ssdSize": "35.6"
+                  }
+               ]
+            },
+            {  
+               "unit":"4760",
+               "info":[  
+                  {  
+                     "title":"4760",
+                     "ru": 5,
+                     "Watts": "691",
+                     "Weight": "185 lbs",
+                     "Amps": 3,
+                     "HDDs": 13,
+                     "SSDs": "27",
+                     "hddSize": "26",
+                     "ssdSize": "25.5"
+                  }
+               ]
+            },
+            {  
+               "unit":"4860",
+               "info":[  
+                  {  
+                     "title":"4860",
+                     "ru": 5,
+                     "Watts": "691",
+                     "Weight": "185 lbs",
+                     "Amps": 3,
+                     "HDDs": 13,
+                     "SSDs": "27",
+                     "hddSize": "52",
+                     "ssdSize": "54"
+                  }
+               ]
+            },
+            {  
+               "unit":"HD-50",
+               "info":[  
+                  {  
+                     "title":"T10KHD-4-50",
+                     "ru":5,
+                     "Watts": "Up to 1250 Watts",
+                     "Weight": "Up to 175 lbs",
+                     "Amps": 3,
+                     "HDDs": 22,
+                     "SSDs": 8,
+                     "hddSize": 8,
+                     "ssdSize": 8
+                  }
+               ]
+            },
+            {  
+               "unit":"HD-100",
+               "info":[  
+                  {  
+                     "title":"T10KHD-8-100",
+                     "ru":5,
+                     "Watts": "Up to 1250 Watts",
+                     "Weight": "Up to 175 lbs",
+                     "Amps": 3,
+                     "HDDs": 22,
+                     "SSDs": 16,
+                     "hddSize": 16,
+                     "ssdSize": 8
+                  }
+               ]
+            },
+            {  
+               "unit":"HD-150",
+               "info":[  
+                  {  
+                     "title":"T10KHD-4-150",
+                     "ru":5,
+                     "Watts": "Up to 1250 Watts",
+                     "Weight": "Up to 175 lbs",
+                     "Amps": "3 @ 220V",
+                     "HDDs": "60",
+                     "SSDs": "16",
+                     "hddSize": "32",
+                     "ssdSize": "240"
+                  }
+               ]
+            },
+            {  
+               "unit":"HD-300",
+               "info":[  
+                  {  
+                     "title":"T10KHD-300",
+                     "ru":5,
+                     "Watts": "Up to 1250 Watts",
+                     "Weight": "Up to 175 lbs",
+                     "Amps": "3 @ 220V",
+                     "HDDs": "60",
+                     "SSDs": 24,
+                     "hddSize": "48",
+                     "ssdSize": "480"
+                  }
+               ]
+            }
+         ],
+         "shelves":[  
+            {  
+               "unit":"HE-25",
+               "info":[  
+                  {  
+                     "title":"HE-25",
+                    "ru": 3,
+                     "Watts": "196",
+                     "Weight": "105 lbs",
+                     "Amps": "1 @ 220V",
+                     "HDDs": 13,
+                     "SSDs": 3,
+                     "hddSize": "",
+                     "ssdSize": ""
+                  }
+               ]
+            },
+            {  
+               "unit":"HE-50",
+               "info":[  
+                  {  
+                     "title":"HE-50",
+                     "ru": 3,
+                     "Watts": "196",
+                     "Weight": "105 lbs",
+                     "Amps": "1 @ 220V",
+                     "HDDs": 13,
+                     "SSDs": 3,
+                     "hddSize": "",
+                     "ssdSize": ""
+                  }
+               ]
+            },
+            {  
+               "unit":"FE-5",
+               "info":[  
+                  {  
+                     "title":"FE-5",
+                     "ru": 2,
+                     "Watts": "218",
+                     "Weight": "80 lbs",
+                     "Amps": "1 @ 220V",
+                     "HDDs": 0,
+                     "SSDs": 24,
+                     "hddSize": "",
+                     "ssdSize": ""
+                  }
+               ]
+            },
+            {  
+               "unit":"FE-10",
+               "info":[  
+                  {  
+                     "title":"FE-10",
+                      "ru": 2,
+                     "Watts": "218",
+                     "Weight": "80 lbs",
+                     "Amps": "1 @ 220V",
+                     "HDDs": 0,
+                     "SSDs": 24,
+                     "hddSize": "",
+                     "ssdSize": ""
+                  }
+               ]
+            },
+            {  
+               "unit":"FE-25",
+               "info":[  
+                  {  
+                     "title":"FE-25",
+                      "ru": 2,
+                     "Watts": "218",
+                     "Weight": "80 lbs",
+                     "Amps": "1 @ 220V",
+                     "HDDs": 0,
+                     "SSDs": 24,
+                     "hddSize": "",
+                     "ssdSize": ""
+                  }
+               ]
+            },
+            {  
+               "unit":"FE-50",
+               "info":[  
+                  {  
+                     "title":"FE-50",
+                     "ru": 2,
+                     "Watts": "218",
+                     "Weight": "80 lbs",
+                     "Amps": "1 @ 220V",
+                     "HDDs": 0,
+                     "SSDs": 24,
+                     "hddSize": "",
+                     "ssdSize": ""
+                  }
+               ]
+            }
+         ]
+      }
+   ]
+}

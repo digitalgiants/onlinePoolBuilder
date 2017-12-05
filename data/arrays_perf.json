@@ -1,0 +1,2369 @@
+{  
+   "threeSeries": { 
+         "arrays":[  
+            {  
+                "unit": "3100",  
+                "ru": 3,
+                "watts": 535,
+                "weight": 90,
+                "amps": 2,
+                "hdds": 13,
+                "ssds": 3,
+                "hddSize": 2000,
+                "ssdSize": 192050
+            },
+            {  
+                "unit": "3200",
+                "ru":3,
+                "watts": 535,
+                "weight": 90,
+                "amps": 2,
+                "hdds": 13,
+                "ssds": 3,
+                "hddSize": 3000,
+                "ssdSize": 480
+            },
+            {  
+                "unit": "3300",
+                "ru": 3,
+                "watts": 475,
+                "weight": 80,
+                "amps": 2,
+                "hdds": 18,
+                "ssds": 6,
+                "hddSize": 1000,
+                "ssdSize": 192050
+            },
+            {  
+                "unit": "3400",
+                "ru": 2,
+                "watts": 500,
+                "weight": 80,
+                "amps": 2,
+                "hdds": 13,
+                "ssds": 11,
+                "hddSize": 2000,
+                "ssdSize": 192050
+            },
+            {  
+                "unit": "3500",
+                "ru": 2,
+                "watts": 500,
+                "weight": 80,
+                "amps": 2,
+                "hdds": 0,
+                "ssds": 24,
+                "hddSize": 0,
+                "ssdSize": 192050
+            },
+            {  
+                "unit": "3530",
+                "ru": 5,
+                "watts": 726,
+                "weight": 150,
+                "amps": 3,
+                "hdds": 13,
+                "ssds": 24,
+                "hddSize": 2,
+                "ssdSize": 192050
+            },
+            {  
+                "unit": "3600",
+                "ru": 2,
+                "watts": 500,
+                "weight": 80,
+                "amps": 2,
+                "hdds": 0,
+                "ssds": 24,
+                "hddSize": 0,
+                "ssdSize": 480
+            },
+            {  
+                "unit": "3630",
+                "ru": 8,
+                "watts": 950,
+                "weight": 220,
+                "amps": 4,
+                "hdds": 26,
+                "ssds": 24,
+                "hddSize": 2,
+                "ssdSize": 480
+            },
+            {  
+                "unit": "3700",
+                "ru": 2,
+                "watts": 450,
+                "weight": 80,
+                "amps": 2,
+                "hdds": 0,
+                "ssds": 24,
+                "hddSize": 0,
+                "ssdSize": 960
+            },
+            {  
+                "unit": "3730",
+                "ru": 14,
+                "watts": 1400,
+                "weight": 360,
+                "amps": 6,
+                "hdds": 52,
+                "ssds": 24,
+                "hddSize": 2000,
+                "ssdSize": 960
+            },
+            {  
+                "unit": "3750",
+                "ru": 5,
+                "watts": 726,
+                "weight": 150,
+                "amps": 3,
+                "hdds": 13,
+                "ssds": 24,
+                "hddSize": 3000,
+                "ssdSize": 960
+            },
+            {  
+                "unit":" 3800",
+                "ru": 2,
+                "watts": 450,
+                "weight": 80,
+                "amps": 500,
+                "hdds": 0,
+                "ssds": 24,
+                "hddSize": 0,
+                "ssdSize": 1920
+            },
+            {  
+                "unit": "3850",
+                "ru": 8,
+                "watts": 950,
+                "weight": 220,
+                "amps": 4,
+                "hdds": 26,
+                "ssds": 24,
+                "hddSize": 3000,
+                "ssdSize": 1920
+            },
+            {  
+                "unit": "T10KHD-100",
+                "ru": 5,
+                "watts": 1250,
+                "weight": 175,
+                "amps": 3,
+                "hdds": 22,
+                "ssds": 8,
+                "hddSize": 8000,
+                "ssdSize": 1920
+            },
+            {  
+                "unit": "T10KHD-200",
+                "ru": 5,
+                "watts": 1250,
+                "weight": 175,
+                "amps": 3,
+                "hdds": 42,
+                "ssds": 16,
+                "hddSize": 8000,
+                "ssdSize": 1920
+            },
+            {  
+                "unit": "T10KHD-300",
+                "ru": 5,
+                "watts": 1250,
+                "weight": 175,
+                "amps": 3,
+                "hdds": 64,
+                "ssds": 24,
+                "hddSize": 8000,
+                "ssdSize": 1920
+            }
+         ],
+         "shelves":[  
+            {  
+                "unit": "ESH20",
+                "ru": 3,
+                "watts": 225,
+                "weight": 70,
+                "amps": 1,
+                "hdds": 18,
+                "ssds": 6,
+                "hddSize": 1,
+                "ssdSize": 192050
+            },
+            {  
+                "unit": "ESH25",
+                "ru": 3,
+                "watts": 225,
+                "weight": 70,
+                "amps": 1,
+                "hdds": 13,
+                "ssds": 3,
+                "hddSize": 2,
+                "ssdSize": 192050
+            },
+            {  
+                "unit": "ESH35",
+                "ru": 3,
+                "watts": 225,
+                "weight": 70,
+                "amps": 1,
+                "hdds": 12,
+                "ssds": 4,
+                "hddSize": 3,
+                "ssdSize": 480
+            },
+            {  
+                "unit": "ESH65",
+                "ru": 4,
+                "watts": 675,
+                "weight": 110,
+                "amps": 3,
+                "hdds": 64,
+                "ssds": 8,
+                "hddSize": 1,
+                "ssdSize": 192050
+            },
+            {  
+                "unit": "ESF5",
+                "ru": 2,
+                "watts": 107,
+                "weight": 50,
+                "amps": 1,
+                "hdds": 0,
+                "ssds": 24,
+                "hddSize": 0,
+                "ssdSize": 192050
+            },
+            {  
+                "unit": "ESF10",
+                "ru": 2,
+                "watts": 107,
+                "weight": 50,
+                "amps": 1,
+                "hdds": 0,
+                "ssds": 24,
+                "hddSize": 0,
+                "ssdSize": 480
+            },
+            {  
+                "unit": "ESF25",
+                "ru": 2,
+                "watts": 107,
+                "weight": 50,
+                "amps": 1,
+                "hdds": 0,
+                "ssds": 24,
+                "hddSize": 0,
+                "ssdSize": 1
+            },
+            {  
+                "unit": "ESF50",
+                "ru": 2,
+                "watts": 107,
+                "weight": 50,
+                "amps": 1,
+                "hdds": 0,
+                "ssds": 24,
+                "hddSize": 0,
+                "ssdSize": 1920
+            },
+            {  
+                "unit": "ESF145",
+                "ru": 4,
+                "watts": 760,
+                "weight": 50,
+                "amps": 3,
+                "hdds": 0,
+                "ssds": 72,
+                "hddSize": 0,
+                "ssdSize": 1920
+            }
+         ]
+    },
+   "fourSeries": {  
+         "arrays":[  
+            {  
+               "unit": "4100",
+               "perfID": 1,
+                "ru": 3,
+                "watts": 423,
+                "weight": 195,
+                "amps": 2,
+                "hdds": 13,
+                "ssds": 3,
+                "hddSize": 2000,
+                "ssdSize": 1440
+            },
+            {  
+               "unit": "4200",
+               "perfID": 2,
+                "ru": 3,
+                "watts": 441,
+                "weight": 195,
+                "amps": 2,
+                "hdds": 13,
+                "ssds": 3,
+                "hddSize": 4000,
+                "ssdSize": 1920
+            },
+            {  
+               "unit": "4500",
+               "perfID": 3,
+                "ru": 2,
+                "watts": 439,
+                "weight": 80,
+                "amps": 2,
+                "hdds": 0,
+                "ssds": 24,
+                "hddSize": 0,
+                "ssdSize": 250
+            },
+            {  
+               "unit":"4600",
+               "perfID": 4,
+                "ru": 2,
+                "watts": 500,
+                "weight": 80,
+                "amps": 2,
+                "hdds": 0,
+                "ssds": 24,
+                "hddSize": 0,
+                "ssdSize": 480
+            },
+            {  
+               "unit":"4700",
+               "perfID": 4,
+                "ru": 2,
+                "watts": 500,
+                "weight": 80,
+                "amps": 2,
+                "hdds": 0,
+                "ssds": 24,
+                "hddSize": 0,
+                "ssdSize": 1920
+            },
+            {  
+               "unit":"4800",
+               "perfID": 4,
+                "ru": 2,
+                "watts": 500,
+                "weight": 80,
+                "amps": 2,
+                "hdds": 0,
+                "ssds": 24,
+                "hddSize": 0,
+                "ssdSize": 1920
+            },
+            {  
+               "unit":"4530",
+               "perfID": 5,
+                "ru": 5,
+                "watts": 635,
+                "weight": 185,
+                "amps": 3,
+                "hdds": 13,
+                "ssds": 27,
+                "metaSsds": 3,
+                "hddSize": 3000,
+                "ssdSize": 250,
+                "metaSize": 1440
+            },
+            {  
+               "unit":"4630",
+               "perfID": 6,
+                "ru": 5,
+                "watts": 691,
+                "weight": 185,
+                "amps": 4,
+                "hdds": 13,
+                "ssds": 24,
+                "metaSsds": 3,
+                "hddSize": 4000,
+                "ssdSize": 480,
+                "metaSize": 1920
+            },
+            {  
+               "unit":"4730",
+               "perfID": 7,
+                "ru": 8,
+                "watts": 887,
+                "weight": 290,
+                "amps": 5,
+                "hdds": 26,
+                "ssds": 24,
+                "metaSsds": 6,
+                "hddSize": 4000,
+                "ssdSize": 960,
+                "metaSize": 1920
+            },
+            {  
+               "unit":"4760",
+               "perfID": 8,
+                "ru": 5,
+                "watts": 691,
+                "weight": 185,
+                "amps": 3,
+                "hdds": 13,
+                "ssds": 24,
+                "metaSsds": 3,
+                "hddSize": 2000,
+                "ssdSize": 960,
+                "metaSize": 480
+            },
+            {  
+               "unit":"4860",
+               "perfID": 9,
+                "ru": 5,
+                "watts": 691,
+                "weight": 185,
+                "amps": 3,
+                "hdds": 13,
+                "ssds": 24,
+                "metaSsds": 3,
+                "hddSize": 4000,
+                "ssdSize": 1920,
+                "metaSize": 1920
+            },
+            {  
+                "unit":"T10KHD-4-50",
+                "perfID": 10,
+                "ru":5,
+                "watts": 1250,
+                "weight": 175,
+                "amps": 3,
+                "hdds": 22,
+                "ssds": 8,
+                "hddSize": 8000,
+                "ssdSize": 1920
+            },
+            {  
+               "unit":"T10KHD-8-100",
+               "perfID": 11,
+                "ru":5,
+                "watts": 1250,
+                "weight": 175,
+                "amps": 3,
+                "hdds": 22,
+                "ssds": 16,
+                "hddSize": 4000,
+                "ssdSize": 1920
+            },
+            {  
+                "unit":"T10KHD-4-150",
+                "perfID": 12,
+                "ru":5,
+                "watts": 1250,
+                "weight": 175,
+                "amps": 3,
+                "hdds": 60,
+                "ssds": 16,
+                "hddSize": 4000,
+                "ssdSize": 1920
+            },
+            {  
+                "unit":"T10KHD-300",
+                "perfID": 13,
+                "ru":5,
+                "watts": 1250,
+                "weight": 175,
+                "amps": 3,
+                "hdds": 60,
+                "ssds": 24,
+                "hddSize": 8000,
+                "ssdSize": 1920
+            }
+         ],
+         "shelves":[  
+            {  
+                "unit":"HE-25",
+                "perfID": 1,
+                "ru": 3,
+                "watts": 196,
+                "weight": 105,
+                "amps": 1,
+                "hdds": 13,
+                "ssds": 3,
+                "hddSize": 2,
+                "ssdSize": 480
+            },
+            {  
+               "unit":"HE-50",
+               "perfID": 2,
+                "ru": 3,
+                "watts": 196,
+                "weight": 105,
+                "amps": 1,
+                "hdds": 13,
+                "ssds": 3,
+                "hddSize": 4,
+                "ssdSize": 1920
+            },
+            {  
+                "unit":"FE-5",
+                "perfID": 3,
+                "ru": 2,
+                "watts": 218,
+                "weight": 80,
+                "amps": 1,
+                "hdds": 0,
+                "ssds": 24,
+                "hddSize": 0,
+                "ssdSize": 192050
+            },
+            {  
+                "unit":"FE-10",
+                "perfID": 4,
+                "ru": 2,
+                "watts": 218,
+                "weight": 80,
+                "amps": 1,
+                "hdds": 0,
+                "ssds": 24,
+                "hddSize": 0,
+                "ssdSize": 480
+            },
+            {  
+                "unit":"FE-25",
+                "perfID": 4,
+                "ru": 2,
+                "watts": 218,
+                "weight": 80,
+                "amps": 1,
+                "hdds": 0,
+                "ssds": 24,
+                "hddSize": 0,
+                "ssdSize": 1
+            },
+            {  
+                "unit":"FE-50",
+                "perfID": 4,
+                "ru": 2,
+                "watts": 218,
+                "weight": 80,
+                "amps": 1,
+                "hdds": 0,
+                "ssds": 24,
+                "hddSize": 0,
+                "ssdSize": 1920
+            }
+        ]
+      },
+   "fourSeriesPerf": {
+        "poolWithOneShelf(R10)": [
+            {
+                "4K100%Read":[
+                    {
+                        "id":1,
+                        "perf":190000
+                    },
+                    {
+                        "id":2,
+                        "perf":240000
+                    },
+                    {
+                        "id":3,
+                        "perf":265000
+                    },
+                    {
+                        "id":4,
+                        "perf":370000
+                    }
+                ],
+                "4K80%Read":[
+                    {
+                        "id":1,
+                        "perf":40000
+                    },
+                    {
+                        "id":2,
+                        "perf":82000
+                    },
+                    {
+                        "id":3,
+                        "perf":110000
+                    },
+                    {
+                        "id":4,
+                        "perf":162000
+                    }
+                ],
+                "4K50%Read":[
+                    {
+                        "id":1,
+                        "perf":15200
+                    },
+                    {
+                        "id":2,
+                        "perf":40000
+                    },
+                    {
+                        "id":3,
+                        "perf":75000
+                    },
+                    {
+                        "id":4,
+                        "perf":135000
+                    }
+                ],
+                "4K20%Read":[
+                    {
+                        "id":1,
+                        "perf":14400
+                    },
+                    {
+                        "id":2,
+                        "perf":25000
+                    },
+                    {
+                        "id":3,
+                        "perf":62000
+                    },
+                    {
+                        "id":4,
+                        "perf":110000
+                    }
+                ],
+                "4K0%Read":[
+                    {
+                        "id":1,
+                        "perf":13000
+                    },
+                    {
+                        "id":2,
+                        "perf":19000
+                    },
+                    {
+                        "id":3,
+                        "perf":55000
+                    },
+                    {
+                        "id":4,
+                        "perf":85000
+                    }
+                ],
+                "8K100%Read":[
+                    {
+                        "id":1,
+                        "perf":150000
+                    },
+                    {
+                        "id":2,
+                        "perf":210000
+                    },
+                    {
+                        "id":3,
+                        "perf":240000
+                    },
+                    {
+                        "id":4,
+                        "perf":345000
+                    }
+                ],
+                "8K80%Read":[
+                    {
+                        "id":1,
+                        "perf":35000
+                    },
+                    {
+                        "id":2,
+                        "perf":80000
+                    },
+                    {
+                        "id":3,
+                        "perf":105000
+                    },
+                    {
+                        "id":4,
+                        "perf":160000
+                    }
+                ],
+                "8K50%Read":[
+                    {
+                        "id":1,
+                        "perf":21000
+                    },
+                    {
+                        "id":2,
+                        "perf":35000
+                    },
+                    {
+                        "id":3,
+                        "perf":72000
+                    },
+                    {
+                        "id":4,
+                        "perf":125000
+                    }
+                ],
+                "8K20%Read":[
+                    {
+                        "id":1,
+                        "perf":13000
+                    },
+                    {
+                        "id":2,
+                        "perf":20000
+                    },
+                    {
+                        "id":3,
+                        "perf":60000
+                    },
+                    {
+                        "id":4,
+                        "perf":110000
+                    }
+                ],
+                "8K0%Read":[
+                    {
+                        "id":1,
+                        "perf":10000
+                    },
+                    {
+                        "id":2,
+                        "perf":17000
+                    },
+                    {
+                        "id":3,
+                        "perf":54000
+                    },
+                    {
+                        "id":4,
+                        "perf":85000
+                    }
+                ],
+                "16K100%Read":[
+                    {
+                        "id":1,
+                        "perf":130000
+                    },
+                    {
+                        "id":2,
+                        "perf":140000
+                    },
+                    {
+                        "id":3,
+                        "perf":190000
+                    },
+                    {
+                        "id":4,
+                        "perf":250000
+                    }
+                ],
+                "16K80%Read":[
+                    {
+                        "id":1,
+                        "perf":28000
+                    },
+                    {
+                        "id":2,
+                        "perf":51000
+                    },
+                    {
+                        "id":3,
+                        "perf":100000
+                    },
+                    {
+                        "id":4,
+                        "perf":150000
+                    }
+                ],
+                "16K50%Read":[
+                    {
+                        "id":1,
+                        "perf":18000
+                    },
+                    {
+                        "id":2,
+                        "perf":28000
+                    },
+                    {
+                        "id":3,
+                        "perf":70000
+                    },
+                    {
+                        "id":4,
+                        "perf":100000
+                    }
+                ],
+                "16K20%Read":[
+                    {
+                        "id":1,
+                        "perf":12200
+                    },
+                    {
+                        "id":2,
+                        "perf":17000
+                    },
+                    {
+                        "id":3,
+                        "perf":55000
+                    },
+                    {
+                        "id":4,
+                        "perf":80000
+                    }
+                ],
+                "16K0%Read":[
+                    {
+                        "id":1,
+                        "perf":9500
+                    },
+                    {
+                        "id":2,
+                        "perf":15000
+                    },
+                    {
+                        "id":3,
+                        "perf":50000
+                    },
+                    {
+                        "id":4,
+                        "perf":70000
+                    }
+                ],
+                "32K100%Read":[
+                    {
+                        "id":1,
+                        "perf":70000
+                    },
+                    {
+                        "id":2,
+                        "perf":75000
+                    },
+                    {
+                        "id":3,
+                        "perf":110000
+                    },
+                    {
+                        "id":4,
+                        "perf":140000
+                    }
+                ],
+                "32K80%Read":[
+                    {
+                        "id":1,
+                        "perf":23000
+                    },
+                    {
+                        "id":2,
+                        "perf":40000
+                    },
+                    {
+                        "id":3,
+                        "perf":80000
+                    },
+                    {
+                        "id":4,
+                        "perf":120000
+                    }
+                ],
+                "32K50%Read":[
+                    {
+                        "id":1,
+                        "perf":11000
+                    },
+                    {
+                        "id":2,
+                        "perf":25000
+                    },
+                    {
+                        "id":3,
+                        "perf":55000
+                    },
+                    {
+                        "id":4,
+                        "perf":80000
+                    }
+                ],
+                "32K20%Read":[
+                    {
+                        "id":1,
+                        "perf":8500
+                    },
+                    {
+                        "id":2,
+                        "perf":20000
+                    },
+                    {
+                        "id":3,
+                        "perf":38000
+                    },
+                    {
+                        "id":4,
+                        "perf":55000
+                    }
+                ],
+                "32K0%Read":[
+                    {
+                        "id":1,
+                        "perf":7000
+                    },
+                    {
+                        "id":2,
+                        "perf":15000
+                    },
+                    {
+                        "id":3,
+                        "perf":32000
+                    },
+                    {
+                        "id":4,
+                        "perf":46000
+                    }
+                ],
+                "64K100%Read":[
+                    {
+                        "id":1,
+                        "perf":34000
+                    },
+                    {
+                        "id":2,
+                        "perf":37000
+                    },
+                    {
+                        "id":3,
+                        "perf":65000
+                    },
+                    {
+                        "id":4,
+                        "perf":75000
+                    }
+                ],
+                "64K80%Read":[
+                    {
+                        "id":1,
+                        "perf":16000
+                    },
+                    {
+                        "id":2,
+                        "perf":24000
+                    },
+                    {
+                        "id":3,
+                        "perf":48000
+                    },
+                    {
+                        "id":4,
+                        "perf":65000
+                    }
+                ],
+                "64K50%Read":[
+                    {
+                        "id":1,
+                        "perf":8000
+                    },
+                    {
+                        "id":2,
+                        "perf":16000
+                    },
+                    {
+                        "id":3,
+                        "perf":32000
+                    },
+                    {
+                        "id":4,
+                        "perf":48000
+                    }
+                ],
+                "64K20%Read":[
+                    {
+                        "id":1,
+                        "perf":6000
+                    },
+                    {
+                        "id":2,
+                        "perf":13000
+                    },
+                    {
+                        "id":3,
+                        "perf":24000
+                    },
+                    {
+                        "id":4,
+                        "perf":33000
+                    }
+                ],
+                "64K0%Read":[
+                    {
+                        "id":1,
+                        "perf":5000
+                    },
+                    {
+                        "id":2,
+                        "perf":11000
+                    },
+                    {
+                        "id":3,
+                        "perf":20000
+                    },
+                    {
+                        "id":4,
+                        "perf":28000
+                    }
+                ]
+            }
+        ],
+        "poolWithOneShelf(R60)": [
+            {
+                "4K100%Read":[
+                    {
+                        "id":1,
+                        "perf":190000
+                    },
+                    {
+                        "id":2,
+                        "perf":220000
+                    },
+                    {
+                        "id":3,
+                        "perf":260000
+                    },
+                    {
+                        "id":4,
+                        "perf":320000
+                    }
+                ],
+                "4K80%Read":[
+                    {
+                        "id":1,
+                        "perf":45000
+                    },
+                    {
+                        "id":2,
+                        "perf":76000
+                    },
+                    {
+                        "id":3,
+                        "perf":100000
+                    },
+                    {
+                        "id":4,
+                        "perf":140000
+                    }
+                ],
+                "4K50%Read":[
+                    {
+                        "id":1,
+                        "perf":30000
+                    },
+                    {
+                        "id":2,
+                        "perf":46000
+                    },
+                    {
+                        "id":3,
+                        "perf":72000
+                    },
+                    {
+                        "id":4,
+                        "perf":130000
+                    }
+                ],
+                "4K20%Read":[
+                    {
+                        "id":1,
+                        "perf":25000
+                    },
+                    {
+                        "id":2,
+                        "perf":32000
+                    },
+                    {
+                        "id":3,
+                        "perf":50000
+                    },
+                    {
+                        "id":4,
+                        "perf":100000
+                    }
+                ],
+                "4K0%Read":[
+                    {
+                        "id":1,
+                        "perf":20000
+                    },
+                    {
+                        "id":2,
+                        "perf":24000
+                    },
+                    {
+                        "id":3,
+                        "perf":45000
+                    },
+                    {
+                        "id":4,
+                        "perf":85000
+                    }
+                ],
+                "8K100%Read":[
+                    {
+                        "id":1,
+                        "perf":180000
+                    },
+                    {
+                        "id":2,
+                        "perf":200000
+                    },
+                    {
+                        "id":3,
+                        "perf":220000
+                    },
+                    {
+                        "id":4,
+                        "perf":300000
+                    }
+                ],
+                "8K80%Read":[
+                    {
+                        "id":1,
+                        "perf":52000
+                    },
+                    {
+                        "id":2,
+                        "perf":74000
+                    },
+                    {
+                        "id":3,
+                        "perf":94000
+                    },
+                    {
+                        "id":4,
+                        "perf":175000
+                    }
+                ],
+                "8K50%Read":[
+                    {
+                        "id":1,
+                        "perf":30000
+                    },
+                    {
+                        "id":2,
+                        "perf":40000
+                    },
+                    {
+                        "id":3,
+                        "perf":72000
+                    },
+                    {
+                        "id":4,
+                        "perf":120000
+                    }
+                ],
+                "8K20%Read":[
+                    {
+                        "id":1,
+                        "perf":22000
+                    },
+                    {
+                        "id":2,
+                        "perf":29000
+                    },
+                    {
+                        "id":3,
+                        "perf":60000
+                    },
+                    {
+                        "id":4,
+                        "perf":100000
+                    }
+                ],
+                "8K0%Read":[
+                    {
+                        "id":1,
+                        "perf":20000
+                    },
+                    {
+                        "id":2,
+                        "perf":22000
+                    },
+                    {
+                        "id":3,
+                        "perf":50000
+                    },
+                    {
+                        "id":4,
+                        "perf":85000
+                    }
+                ],
+                "16K100%Read":[
+                    {
+                        "id":1,
+                        "perf":130000
+                    },
+                    {
+                        "id":2,
+                        "perf":110000
+                    },
+                    {
+                        "id":3,
+                        "perf":170000
+                    },
+                    {
+                        "id":4,
+                        "perf":220000
+                    }
+                ],
+                "16K80%Read":[
+                    {
+                        "id":1,
+                        "perf":42000
+                    },
+                    {
+                        "id":2,
+                        "perf":72000
+                    },
+                    {
+                        "id":3,
+                        "perf":82000
+                    },
+                    {
+                        "id":4,
+                        "perf":150000
+                    }
+                ],
+                "16K50%Read":[
+                    {
+                        "id":1,
+                        "perf":25000
+                    },
+                    {
+                        "id":2,
+                        "perf":44000
+                    },
+                    {
+                        "id":3,
+                        "perf":70000
+                    },
+                    {
+                        "id":4,
+                        "perf":100000
+                    }
+                ],
+                "16K20%Read":[
+                    {
+                        "id":1,
+                        "perf":20000
+                    },
+                    {
+                        "id":2,
+                        "perf":30000
+                    },
+                    {
+                        "id":3,
+                        "perf":48000
+                    },
+                    {
+                        "id":4,
+                        "perf":75000
+                    }
+                ],
+                "16K0%Read":[
+                    {
+                        "id":1,
+                        "perf":19000
+                    },
+                    {
+                        "id":2,
+                        "perf":25000
+                    },
+                    {
+                        "id":3,
+                        "perf":45000
+                    },
+                    {
+                        "id":4,
+                        "perf":65000
+                    }
+                ],
+                "32K100%Read":[
+                    {
+                        "id":1,
+                        "perf":70000
+                    },
+                    {
+                        "id":2,
+                        "perf":70000
+                    },
+                    {
+                        "id":3,
+                        "perf":110000
+                    },
+                    {
+                        "id":4,
+                        "perf":140000
+                    }
+                ],
+                "32K80%Read":[
+                    {
+                        "id":1,
+                        "perf":38000
+                    },
+                    {
+                        "id":2,
+                        "perf":50000
+                    },
+                    {
+                        "id":3,
+                        "perf":60000
+                    },
+                    {
+                        "id":4,
+                        "perf":100000
+                    }
+                ],
+                "32K50%Read":[
+                    {
+                        "id":1,
+                        "perf":18000
+                    },
+                    {
+                        "id":2,
+                        "perf":34000
+                    },
+                    {
+                        "id":3,
+                        "perf":50000
+                    },
+                    {
+                        "id":4,
+                        "perf":75000
+                    }
+                ],
+                "32K20%Read":[
+                    {
+                        "id":1,
+                        "perf":14000
+                    },
+                    {
+                        "id":2,
+                        "perf":26000
+                    },
+                    {
+                        "id":3,
+                        "perf":35000
+                    },
+                    {
+                        "id":4,
+                        "perf":55000
+                    }
+                ],
+                "32K0%Read":[
+                    {
+                        "id":1,
+                        "perf":12000
+                    },
+                    {
+                        "id":2,
+                        "perf":22000
+                    },
+                    {
+                        "id":3,
+                        "perf":30000
+                    },
+                    {
+                        "id":4,
+                        "perf":46000
+                    }
+                ],
+                "64K100%Read":[
+                    {
+                        "id":1,
+                        "perf":34000
+                    },
+                    {
+                        "id":2,
+                        "perf":37000
+                    },
+                    {
+                        "id":3,
+                        "perf":65000
+                    },
+                    {
+                        "id":4,
+                        "perf":73000
+                    }
+                ],
+                "64K80%Read":[
+                    {
+                        "id":1,
+                        "perf":25000
+                    },
+                    {
+                        "id":2,
+                        "perf":30000
+                    },
+                    {
+                        "id":3,
+                        "perf":45000
+                    },
+                    {
+                        "id":4,
+                        "perf":65000
+                    }
+                ],
+                "64K50%Read":[
+                    {
+                        "id":1,
+                        "perf":14000
+                    },
+                    {
+                        "id":2,
+                        "perf":23000
+                    },
+                    {
+                        "id":3,
+                        "perf":30000
+                    },
+                    {
+                        "id":4,
+                        "perf":48000
+                    }
+                ],
+                "64K20%Read":[
+                    {
+                        "id":1,
+                        "perf":9200
+                    },
+                    {
+                        "id":2,
+                        "perf":18000
+                    },
+                    {
+                        "id":3,
+                        "perf":23000
+                    },
+                    {
+                        "id":4,
+                        "perf":33000
+                    }
+                ],
+                "64K0%Read":[
+                    {
+                        "id":1,
+                        "perf":8000
+                    },
+                    {
+                        "id":2,
+                        "perf":15000
+                    },
+                    {
+                        "id":3,
+                        "perf":19000
+                    },
+                    {
+                        "id":4,
+                        "perf":27000
+                    }
+                ]
+            }
+            ],
+        "poolWithTwoShelves(R10)": [
+            {
+                "4K100%Read":[
+                    {
+                        "id":1,
+                        "perf":190000
+                    },
+                    {
+                        "id":2,
+                        "perf":240000
+                    },
+                    {
+                        "id":3,
+                        "perf":265000
+                    },
+                    {
+                        "id":4,
+                        "perf":370000
+                    }
+                ],
+                "4K80%Read":[
+                    {
+                        "id":1,
+                        "perf":45000
+                    },
+                    {
+                        "id":2,
+                        "perf":95000
+                    },
+                    {
+                        "id":3,
+                        "perf":110000
+                    },
+                    {
+                        "id":4,
+                        "perf":162000
+                    }
+                ],
+                "4K50%Read":[
+                    {
+                        "id":1,
+                        "perf":35000
+                    },
+                    {
+                        "id":2,
+                        "perf":52000
+                    },
+                    {
+                        "id":3,
+                        "perf":75000
+                    },
+                    {
+                        "id":4,
+                        "perf":135000
+                    }
+                ],
+                "4K20%Read":[
+                    {
+                        "id":1,
+                        "perf":25000
+                    },
+                    {
+                        "id":2,
+                        "perf":33000
+                    },
+                    {
+                        "id":3,
+                        "perf":62000
+                    },
+                    {
+                        "id":4,
+                        "perf":110000
+                    }
+                ],
+                "4K0%Read":[
+                    {
+                        "id":1,
+                        "perf":19000
+                    },
+                    {
+                        "id":2,
+                        "perf":24000
+                    },
+                    {
+                        "id":3,
+                        "perf":55000
+                    },
+                    {
+                        "id":4,
+                        "perf":85000
+                    }
+                ],
+                "8K100%Read":[
+                    {
+                        "id":1,
+                        "perf":180000
+                    },
+                    {
+                        "id":2,
+                        "perf":210000
+                    },
+                    {
+                        "id":3,
+                        "perf":240000
+                    },
+                    {
+                        "id":4,
+                        "perf":345000
+                    }
+                ],
+                "8K80%Read":[
+                    {
+                        "id":1,
+                        "perf":60000
+                    },
+                    {
+                        "id":2,
+                        "perf":97000
+                    },
+                    {
+                        "id":3,
+                        "perf":105000
+                    },
+                    {
+                        "id":4,
+                        "perf":160000
+                    }
+                ],
+                "8K50%Read":[
+                    {
+                        "id":1,
+                        "perf":32000
+                    },
+                    {
+                        "id":2,
+                        "perf":46000
+                    },
+                    {
+                        "id":3,
+                        "perf":72000
+                    },
+                    {
+                        "id":4,
+                        "perf":125000
+                    }
+                ],
+                "8K20%Read":[
+                    {
+                        "id":1,
+                        "perf":26000
+                    },
+                    {
+                        "id":2,
+                        "perf":29000
+                    },
+                    {
+                        "id":3,
+                        "perf":60000
+                    },
+                    {
+                        "id":4,
+                        "perf":110000
+                    }
+                ],
+                "8K0%Read":[
+                    {
+                        "id":1,
+                        "perf":24000
+                    },
+                    {
+                        "id":2,
+                        "perf":22500
+                    },
+                    {
+                        "id":3,
+                        "perf":54000
+                    },
+                    {
+                        "id":4,
+                        "perf":85000
+                    }
+                ],
+                "16K100%Read":[
+                    {
+                        "id":1,
+                        "perf":130000
+                    },
+                    {
+                        "id":2,
+                        "perf":140000
+                    },
+                    {
+                        "id":3,
+                        "perf":190000
+                    },
+                    {
+                        "id":4,
+                        "perf":250000
+                    }
+                ],
+                "16K80%Read":[
+                    {
+                        "id":1,
+                        "perf":50000
+                    },
+                    {
+                        "id":2,
+                        "perf":90000
+                    },
+                    {
+                        "id":3,
+                        "perf":100000
+                    },
+                    {
+                        "id":4,
+                        "perf":150000
+                    }
+                ],
+                "16K50%Read":[
+                    {
+                        "id":1,
+                        "perf":27000
+                    },
+                    {
+                        "id":2,
+                        "perf":48000
+                    },
+                    {
+                        "id":3,
+                        "perf":70000
+                    },
+                    {
+                        "id":4,
+                        "perf":100000
+                    }
+                ],
+                "16K20%Read":[
+                    {
+                        "id":1,
+                        "perf":20000
+                    },
+                    {
+                        "id":2,
+                        "perf":35000
+                    },
+                    {
+                        "id":3,
+                        "perf":55000
+                    },
+                    {
+                        "id":4,
+                        "perf":80000
+                    }
+                ],
+                "16K0%Read":[
+                    {
+                        "id":1,
+                        "perf":19000
+                    },
+                    {
+                        "id":2,
+                        "perf":28000
+                    },
+                    {
+                        "id":3,
+                        "perf":50000
+                    },
+                    {
+                        "id":4,
+                        "perf":70000
+                    }
+                ],
+                "32K100%Read":[
+                    {
+                        "id":1,
+                        "perf":70000
+                    },
+                    {
+                        "id":2,
+                        "perf":75000
+                    },
+                    {
+                        "id":3,
+                        "perf":110000
+                    },
+                    {
+                        "id":4,
+                        "perf":140000
+                    }
+                ],
+                "32K80%Read":[
+                    {
+                        "id":1,
+                        "perf":38000
+                    },
+                    {
+                        "id":2,
+                        "perf":50000
+                    },
+                    {
+                        "id":3,
+                        "perf":80000
+                    },
+                    {
+                        "id":4,
+                        "perf":120000
+                    }
+                ],
+                "32K50%Read":[
+                    {
+                        "id":1,
+                        "perf":19000
+                    },
+                    {
+                        "id":2,
+                        "perf":34000
+                    },
+                    {
+                        "id":3,
+                        "perf":55000
+                    },
+                    {
+                        "id":4,
+                        "perf":80000
+                    }
+                ],
+                "32K20%Read":[
+                    {
+                        "id":1,
+                        "perf":14000
+                    },
+                    {
+                        "id":2,
+                        "perf":27000
+                    },
+                    {
+                        "id":3,
+                        "perf":38000
+                    },
+                    {
+                        "id":4,
+                        "perf":55000
+                    }
+                ],
+                "32K0%Read":[
+                    {
+                        "id":1,
+                        "perf":13000
+                    },
+                    {
+                        "id":2,
+                        "perf":23000
+                    },
+                    {
+                        "id":3,
+                        "perf":32000
+                    },
+                    {
+                        "id":4,
+                        "perf":46000
+                    }
+                ],
+                "64K100%Read":[
+                    {
+                        "id":1,
+                        "perf":34000
+                    },
+                    {
+                        "id":2,
+                        "perf":37000
+                    },
+                    {
+                        "id":3,
+                        "perf":65000
+                    },
+                    {
+                        "id":4,
+                        "perf":75000
+                    }
+                ],
+                "64K80%Read":[
+                    {
+                        "id":1,
+                        "perf":25000
+                    },
+                    {
+                        "id":2,
+                        "perf":30000
+                    },
+                    {
+                        "id":3,
+                        "perf":48000
+                    },
+                    {
+                        "id":4,
+                        "perf":65000
+                    }
+                ],
+                "64K50%Read":[
+                    {
+                        "id":1,
+                        "perf":14000
+                    },
+                    {
+                        "id":2,
+                        "perf":25000
+                    },
+                    {
+                        "id":3,
+                        "perf":32000
+                    },
+                    {
+                        "id":4,
+                        "perf":48000
+                    }
+                ],
+                "64K20%Read":[
+                    {
+                        "id":1,
+                        "perf":9200
+                    },
+                    {
+                        "id":2,
+                        "perf":19000
+                    },
+                    {
+                        "id":3,
+                        "perf":24000
+                    },
+                    {
+                        "id":4,
+                        "perf":33000
+                    }
+                ],
+                "64K0%Read":[
+                    {
+                        "id":1,
+                        "perf":8000
+                    },
+                    {
+                        "id":2,
+                        "perf":16000
+                    },
+                    {
+                        "id":3,
+                        "perf":20000
+                    },
+                    {
+                        "id":4,
+                        "perf":28000
+                    }
+                ]
+            }
+            ],
+        "poolWithTwoShelves(R60)": [
+            {
+                "4K100%Read":[
+                    {
+                        "id":1,
+                        "perf":190000
+                    },
+                    {
+                        "id":2,
+                        "perf":220000
+                    },
+                    {
+                        "id":3,
+                        "perf":260000
+                    },
+                    {
+                        "id":4,
+                        "perf":320000
+                    }
+                ],
+                "4K80%Read":[
+                    {
+                        "id":1,
+                        "perf":45000
+                    },
+                    {
+                        "id":2,
+                        "perf":76000
+                    },
+                    {
+                        "id":3,
+                        "perf":100000
+                    },
+                    {
+                        "id":4,
+                        "perf":140000
+                    }
+                ],
+                "4K50%Read":[
+                    {
+                        "id":1,
+                        "perf":30000
+                    },
+                    {
+                        "id":2,
+                        "perf":46000
+                    },
+                    {
+                        "id":3,
+                        "perf":72000
+                    },
+                    {
+                        "id":4,
+                        "perf":130000
+                    }
+                ],
+                "4K20%Read":[
+                    {
+                        "id":1,
+                        "perf":25000
+                    },
+                    {
+                        "id":2,
+                        "perf":32000
+                    },
+                    {
+                        "id":3,
+                        "perf":50000
+                    },
+                    {
+                        "id":4,
+                        "perf":100000
+                    }
+                ],
+                "4K0%Read":[
+                    {
+                        "id":1,
+                        "perf":20000
+                    },
+                    {
+                        "id":2,
+                        "perf":24000
+                    },
+                    {
+                        "id":3,
+                        "perf":45000
+                    },
+                    {
+                        "id":4,
+                        "perf":85000
+                    }
+                ],
+                "8K100%Read":[
+                    {
+                        "id":1,
+                        "perf":180000
+                    },
+                    {
+                        "id":2,
+                        "perf":200000
+                    },
+                    {
+                        "id":3,
+                        "perf":220000
+                    },
+                    {
+                        "id":4,
+                        "perf":300000
+                    }
+                ],
+                "8K80%Read":[
+                    {
+                        "id":1,
+                        "perf":52000
+                    },
+                    {
+                        "id":2,
+                        "perf":74000
+                    },
+                    {
+                        "id":3,
+                        "perf":94000
+                    },
+                    {
+                        "id":4,
+                        "perf":175000
+                    }
+                ],
+                "8K50%Read":[
+                    {
+                        "id":1,
+                        "perf":30000
+                    },
+                    {
+                        "id":2,
+                        "perf":40000
+                    },
+                    {
+                        "id":3,
+                        "perf":72000
+                    },
+                    {
+                        "id":4,
+                        "perf":120000
+                    }
+                ],
+                "8K20%Read":[
+                    {
+                        "id":1,
+                        "perf":22000
+                    },
+                    {
+                        "id":2,
+                        "perf":29000
+                    },
+                    {
+                        "id":3,
+                        "perf":60000
+                    },
+                    {
+                        "id":4,
+                        "perf":100000
+                    }
+                ],
+                "8K0%Read":[
+                    {
+                        "id":1,
+                        "perf":20000
+                    },
+                    {
+                        "id":2,
+                        "perf":22000
+                    },
+                    {
+                        "id":3,
+                        "perf":50000
+                    },
+                    {
+                        "id":4,
+                        "perf":85000
+                    }
+                ],
+                "16K100%Read":[
+                    {
+                        "id":1,
+                        "perf":130000
+                    },
+                    {
+                        "id":2,
+                        "perf":110000
+                    },
+                    {
+                        "id":3,
+                        "perf":170000
+                    },
+                    {
+                        "id":4,
+                        "perf":220000
+                    }
+                ],
+                "16K80%Read":[
+                    {
+                        "id":1,
+                        "perf":42000
+                    },
+                    {
+                        "id":2,
+                        "perf":72000
+                    },
+                    {
+                        "id":3,
+                        "perf":82000
+                    },
+                    {
+                        "id":4,
+                        "perf":150000
+                    }
+                ],
+                "16K50%Read":[
+                    {
+                        "id":1,
+                        "perf":25000
+                    },
+                    {
+                        "id":2,
+                        "perf":44000
+                    },
+                    {
+                        "id":3,
+                        "perf":70000
+                    },
+                    {
+                        "id":4,
+                        "perf":100000
+                    }
+                ],
+                "16K20%Read":[
+                    {
+                        "id":1,
+                        "perf":2000
+                    },
+                    {
+                        "id":2,
+                        "perf":30000
+                    },
+                    {
+                        "id":3,
+                        "perf":48000
+                    },
+                    {
+                        "id":4,
+                        "perf":75000
+                    }
+                ],
+                "16K0%Read":[
+                    {
+                        "id":1,
+                        "perf":19000
+                    },
+                    {
+                        "id":2,
+                        "perf":25000
+                    },
+                    {
+                        "id":3,
+                        "perf":45000
+                    },
+                    {
+                        "id":4,
+                        "perf":65000
+                    }
+                ],
+                "32K100%Read":[
+                    {
+                        "id":1,
+                        "perf":70000
+                    },
+                    {
+                        "id":2,
+                        "perf":70000
+                    },
+                    {
+                        "id":3,
+                        "perf":110000
+                    },
+                    {
+                        "id":4,
+                        "perf":140000
+                    }
+                ],
+                "32K80%Read":[
+                    {
+                        "id":1,
+                        "perf":38000
+                    },
+                    {
+                        "id":2,
+                        "perf":50000
+                    },
+                    {
+                        "id":3,
+                        "perf":60000
+                    },
+                    {
+                        "id":4,
+                        "perf":100000
+                    }
+                ],
+                "32K50%Read":[
+                    {
+                        "id":1,
+                        "perf":18000
+                    },
+                    {
+                        "id":2,
+                        "perf":34000
+                    },
+                    {
+                        "id":3,
+                        "perf":50000
+                    },
+                    {
+                        "id":4,
+                        "perf":75000
+                    }
+                ],
+                "32K20%Read":[
+                    {
+                        "id":1,
+                        "perf":14000
+                    },
+                    {
+                        "id":2,
+                        "perf":26000
+                    },
+                    {
+                        "id":3,
+                        "perf":35000
+                    },
+                    {
+                        "id":4,
+                        "perf":55000
+                    }
+                ],
+                "32K0%Read":[
+                    {
+                        "id":1,
+                        "perf":12000
+                    },
+                    {
+                        "id":2,
+                        "perf":22000
+                    },
+                    {
+                        "id":3,
+                        "perf":30000
+                    },
+                    {
+                        "id":4,
+                        "perf":46000
+                    }
+                ],
+                "64K100%Read":[
+                    {
+                        "id":1,
+                        "perf":34000
+                    },
+                    {
+                        "id":2,
+                        "perf":37000
+                    },
+                    {
+                        "id":3,
+                        "perf":65000
+                    },
+                    {
+                        "id":4,
+                        "perf":73000
+                    }
+                ],
+                "64K80%Read":[
+                    {
+                        "id":1,
+                        "perf":25000
+                    },
+                    {
+                        "id":2,
+                        "perf":30000
+                    },
+                    {
+                        "id":3,
+                        "perf":45000
+                    },
+                    {
+                        "id":4,
+                        "perf":65000
+                    }
+                ],
+                "64K50%Read":[
+                    {
+                        "id":1,
+                        "perf":14000
+                    },
+                    {
+                        "id":2,
+                        "perf":23000
+                    },
+                    {
+                        "id":3,
+                        "perf":30000
+                    },
+                    {
+                        "id":4,
+                        "perf":48000
+                    }
+                ],
+                "64K20%Read":[
+                    {
+                        "id":1,
+                        "perf":9200
+                    },
+                    {
+                        "id":2,
+                        "perf":18000
+                    },
+                    {
+                        "id":3,
+                        "perf":23000
+                    },
+                    {
+                        "id":4,
+                        "perf":33000
+                    }
+                ],
+                "64K0%Read":[
+                    {
+                        "id":1,
+                        "perf":8000
+                    },
+                    {
+                        "id":2,
+                        "perf":15000
+                    },
+                    {
+                        "id":3,
+                        "perf":19000
+                    },
+                    {
+                        "id":4,
+                        "perf":27000
+                    }
+                ]
+            }
+        ]	        
+    }
+}
